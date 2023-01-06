@@ -1,13 +1,15 @@
 # Individual Project 1
 # Estimating Online Site (Github) Statistics
 #### Due Date
-* Thursday Feb 25, 2020 (23:59)
+* Thursday Feb 14, 2023 (23:59)
 
 #### Total Points
 * 100 (One Hundred)
 
 ## Goal
-In this project, you will be asked to choose one online site/service with APIs to download data and analyze the collected data. One possible idea is to sample GitHub account IDs and estimate the total number of valid users in Github. In GitHub, user's ID is increasing from 1, but the ID will not be avaiable in GitHub API if the user deletes his/her account. In particular, 5% of the users' ID from 1 to 1000 were missing. Since the limits of GitHub API, you cannot download all the IDs and count the number of missing IDs, you need to sample some IDs and estimate the number of valid users with an unbiased estimator. This project will be completed in Python 3. 
+In this project, you will use Github APIs to download data and analyze the collected data. 
+
+* Question to answer: Sample GitHub account IDs and estimate the total number of valid users in Github. In GitHub, user's ID is increasing from 1, but the ID will not be avaiable in GitHub API if the user deletes his/her account. In particular, 5% of the users' ID from 1 to 1000 were missing. Since the limits of GitHub API, you cannot download all the IDs and count the number of missing IDs, you need to sample some IDs and estimate the number of valid users with an unbiased estimator. This project will be completed in Python 3. 
 
 ## Deliverables & Grading
 * PDF Report (70%) [template](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx)
@@ -17,7 +19,6 @@ In this project, you will be asked to choose one online site/service with APIs t
 	* conslusion
 	
 * Python Code (30%)
-	* Code is required to avoid plagiarism.
 
 * Grading
   1. Code(30):
@@ -34,12 +35,11 @@ In this project, you will be asked to choose one online site/service with APIs t
 	b. Results from the entire id space (15)
      4. Conclusion (10)
 
-
 ## Project Guidelines
 
-#### GitHub API
+#### GitHub REST API
 * [GitHub API documentation](https://developer.github.com/v3/)
-* [OAuth token](https://developer.github.com/v3/#oauth2-token-sent-in-a-header)
+* [Authentication](https://docs.github.com/en/rest/guides/basics-of-authentication?apiVersion=2022-11-28)
 * [GitHub API users](https://developer.github.com/v3/users/)
 * [GitHub API search](https://developer.github.com/v3/search/#search-users)
 
