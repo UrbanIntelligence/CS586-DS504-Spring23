@@ -1,7 +1,7 @@
 # Individual Project 4
 # Meta-Learning and Few Shot Learning
 #### Due Date
-* Thursday Apr 29, 2020 (23:59)
+* Tuesday Apr 25, 2023 (23:59)
 
 #### Total Points
 * 100 (One Hundred)
@@ -12,25 +12,9 @@ In project 2, you were given a bunch of drivers and their trajectories to build 
 ## Current Leaderboard
 | rank | Name | Accuracy |
 |---|---|---|
-|**1**   | Jindal, Amisha  |  1.00 |
-|**2**   |  Hershey, Quincy| 0.93 |
-|**3**   | DiCicco, Mason | 0.92 |
-|4  |  Wang, Jingyan | 0.85 |
-|5|Hong, Hanwen| 0.85|
-|6|Ashley Schuliger|0.81|
-|6| Haas, Jannik | 0.81|
-|6|Zhao, Geng|0.81|
-|9|Gilmore, Brent|0.80|
-|10| Ammartayakun, Aukkawut| 0.73|
-|10| Lin, Ziwei|0.73|
-|12| Carlson, Edward| 0.69|
-|12| Lin, Yufei|0.69|
-|14| Bryson Tang|0.68|
-|15|Zhang, Liang|0.67|
-|16| Sukamanchi,Vamsi Bhargav|0.66|
-|17|Oscar A. Garcia | 0.65|
-
-
+|**1**   | | |
+|**2**   | | |
+|**3**   | | |
 
 ## Evaluation
 To evaluation your submission, a seperate test dataset will be held. For each driver, the test data will contains 10 different trajectories. We will randomly generate 20,000 trajectory pairs and use them to evaluate your submitted model. Like project 2, you should submit a evaluation.py file containing how to process the model and how to run prediction. 
