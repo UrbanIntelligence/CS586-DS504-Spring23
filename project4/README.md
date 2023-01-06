@@ -1,4 +1,4 @@
-# Individual Project 4
+# Individual Project 4 (To be updated to Pytorch)
 # Meta-Learning and Few Shot Learning
 #### Due Date
 * Tuesday Apr 25, 2023 (23:59)
