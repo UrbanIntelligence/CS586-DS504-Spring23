@@ -1,5 +1,5 @@
 # Individual Project 1
-# Estimating Online Site Statistics
+# Estimating Online Site (Github) Statistics
 #### Due Date
 * Thursday Feb 25, 2020 (23:59)
 
