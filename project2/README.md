@@ -12,22 +12,9 @@ In this project, you will be asked to finish a sequence classification task usin
 ## Current Leaderboard
 | rank | Name | Accuracy |
 |---|---|---|
-|**1**    | DiCicco, Mason  | 1.00 |
-|**2**  | Zhao, Geng | 0.88|
-|**3**  |  Gilmore, Brent |   0.80   |
-|4   | Garcia Fernandez, Oscar A  |  0.76  |
-|4   | Jingyan Wang |  0.76   |
-|6  | Liang Zhang |  0.72   |
-|6 | Tang, Bryson | 0.72|
-|8  |  Jindal, Amisha  |   0.68  |
-|9 | Ammartayakun, Aukkawut| 0.64|
-|9 | Lin, Ziwei | 0.64|
-|9 | Schuliger, Ashley |0.64 |
-|12 |  Han, Hongwen|0.60 | 
-
-
-
-
+|**1**    |   |  |
+|**2**  | | |
+|**3**  |  |  |
 
 ## Deliverables & Grading
 * PDF Report (50%) [template](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx)
