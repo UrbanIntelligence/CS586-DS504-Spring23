@@ -1,4 +1,4 @@
-# Individual Project 2
+# Individual Project 2 (To be updated to Pytorch)
 # Classification with Deep Learning
 #### Due Date
 * Tuesday Mar 7, 2023 (23:59)
