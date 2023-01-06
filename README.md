@@ -1,1 +1,1 @@
-# DS504CS586-S23
+# DS504CS586-Big-Data-Analytics-S23
