@@ -66,7 +66,7 @@ response = requests.get('https://api.github.com/search/users?q=created:<2020-01-
 data = response.json()
 
 # It will return 30 results for each request. You could consider using "for" loop to crawl more data.
-# The sample code is the naivest way to collect GitHub users' ID. You can consider other ways to collect data.
+# The sample code is a simple way to collect GitHub users' ID. You can consider other ways to collect data.
 # The following is an example of data[0]
     {'login': 'mojombo',
      'id': 1,
