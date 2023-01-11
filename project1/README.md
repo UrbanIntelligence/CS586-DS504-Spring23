@@ -43,9 +43,9 @@ In this project, you will use Github APIs to download data and analyze the colle
 * [GitHub API users](https://developer.github.com/v3/users/)
 * [GitHub API search](https://developer.github.com/v3/search/#search-users)
 
-For API requests using Basic Authentication or OAuth, you can make up to 5000 requests per hour. You can create your personal access tokens under developer settings. (To be updated to REST API)
+For API requests using Basic Authentication or OAuth, you can make up to 5000 requests per hour. You can create your personal access tokens under Developer settings > Personal access tokens. (To be updated to REST API)
 <p align="center">
-<img src="token.png">
+<img src="token_updated.png">
 </p>
 
 #### Sample code (To be updated to REST API)
