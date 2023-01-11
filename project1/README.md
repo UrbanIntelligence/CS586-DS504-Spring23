@@ -39,7 +39,7 @@ In this project, you will use Github APIs to download data and analyze the colle
 
 #### GitHub REST API
 * [GitHub API documentation](https://developer.github.com/v3/)
-* [Authentication](https://docs.github.com/en/rest/guides/basics-of-authentication?apiVersion=2022-11-28)
+* [Authentication](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 * [GitHub API users](https://developer.github.com/v3/users/)
 * [GitHub API search](https://developer.github.com/v3/search/#search-users)
 
