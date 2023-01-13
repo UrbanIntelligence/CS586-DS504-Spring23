@@ -1,5 +1,5 @@
 
-# Individual Project 3 (To be updated to Pytorch):
+# Individual Project 3:
 # Image Generation with GAN
 
 #### Due Date
