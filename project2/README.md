@@ -1,4 +1,4 @@
-# Individual Project 2 (To be updated to Pytorch)
+# Individual Project 2
 # Classification with Deep Learning
 #### Due Date
 * Tuesday Mar 7, 2023 (23:59)
@@ -7,7 +7,7 @@
 * 100 (One Hundred)
 
 ## Goal
-In this project, you will be asked to finish a sequence classification task using deep learning. A trajectory data set with five taxi drivers' daily driving trajectories in 6 months will be provided, and the task is to build a model to predict which driver a trajectory belongs to. Trajectory to be classified include all GPS records of a driver in one day. During the test, we will use data collected from 5 drivers in 5 days, i.e. there will be 25 records. You can do anything to preprocess the data before feeding the data to the neural network, such as extracting features, getting sub-trajectory based on the status, and so on. This project should be completed in Python 3. Pytorch is recommended, but you can make your decision to use other tools like MxNet.
+In this project, you will be asked to finish a sequence classification task using deep learning. A trajectory data set with five taxi drivers' daily driving trajectories in 6 months will be provided, and the task is to build a model to predict which driver a trajectory belongs to. Trajectory to be classified include all GPS records of a driver in one day. During the test, we will use data collected from 5 drivers in 5 days, i.e. there will be 25 records. You can do anything to preprocess the data before feeding the data to the neural network, such as extracting features, getting sub-trajectory based on the status, and so on. This project should be completed in Python 3. Pytorch is highly recommended, but you can make your decision to use other tools like MxNet.
 
 ## Current Leaderboard
 | rank | Name | Accuracy |
@@ -128,8 +128,6 @@ Setup information could also be found in the [slides](https://docs.google.com/pr
    * [Create a virtual environment with commands](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands)
 * Deep learning package
    * [Pytorch](https://pytorch.org/tutorials/)
-   * [Keras](https://keras.io/). Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It is easy to learn and use. If you are new to deep learning, you can try to use Keras to get started. [Naive Tutorial](https://github.com/yanhuata/DS504CS586-S20/blob/master/project2/keras_tutorial.ipynb)
-   * [Tensorflow](https://www.tensorflow.org/tutorials)
    * [MxNet](https://mxnet.apache.org/)
 * Open source GPU
    * [Using GPU on Google Cloud](https://github.com/yanhuata/DS504CS586-S20/blob/master/project2/keras_tutorial.ipynb)
