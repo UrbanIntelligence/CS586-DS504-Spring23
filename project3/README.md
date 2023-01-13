@@ -28,32 +28,47 @@ MNIST is a dataset composed of handwrite numbers and their labels. Each MNIST im
 
 #### Building and Compiling Generator and Discriminator
 
-In Pytorch, Models are instantiations of the class Sequential. You can try different layers, such as “Conv2D”, different activation functions, such as “tanh”, “leakyRelu”. To compile the model, different optimizer, such as stochastic gradient descent and different loss function are also allowed. The following is the sample code of how to build and compile the models.
+In Pytorch, you can try different layers, such as “Conv2D”, different activation functions, such as “tanh”, “leakyRelu”. You can apply different optimizers, such as stochastic gradient descent or Adam, and different loss functions. The following is the sample code of how to build the model.
 
 
 ```python
-# Optimizer
-adam = Adam(lr=0.0002, beta_1=0.5)
+# Create a Generator class.
+class Generator(nn.Module):
+    def __init__(self, ):
+        super(Generator, self).__init__()
+        # Define your network architecture.
 
-# To create generator, you can define a function which returns a Sequential object.
-g = create_generator()(self-defined function)
+    def forward(self, x):
+        # Define your network data flow. 
+        return output
+# Create a Generator.
+netG = Generator(*args)
 
+# Create a Discriminator class.
+class Discriminator(nn.Module):
+    def __init__(self, ):
+        super(Discriminator, self).__init__()
+        # Define your network architecture.
 
-# To create discriminator, you can define a function which returns a Sequential object.
-d = create_discriminator()(self-defined function)
+    def forward(self, x):
+        # Define your network data flow. 
+        return output
+# Create a Discriminator.
+netD = Discriminator(*args)
 
-# GAN
-d.trainable = False
-inputs = Input(shape=(z_dim, ))
-hidden = g(inputs)
-output = d(hidden)
-gan = Model(inputs, output)
-gan.compile(loss='binary_crossentropy', optimizer=adam, metrics=['accuracy'])
+# Setup Generator optimizer.
+optimizerG = torch.optim.Adam(netG.parameters(), lr=0.0002, betas=(0.9, 0.999))
+
+# Setup Discriminator optimizer.
+optimizerD = torch.optim.Adam(netD.parameters(), lr=0.0002, betas=(0.9, 0.999))
+
+# Define loss function. 
+criterion = torch.nn.BCELoss()
 ```
 
 #### Training GAN
 
-You have the option of changing how many epochs to train your model for and how large your batch size is. The following is the sample code of how to train GAN. You can add seld-defined parameters such as #epoch, learning rate scheduler to the train function.
+You have the option of changing how many epochs to train your model for and how large your batch size is. The following is the sample code of how to train GAN. You can add self-defined parameters such as #epoch, learning rate scheduler to the train function.
 
 
 
@@ -65,7 +80,6 @@ def train():
         # Create a batch by drawing random index numbers from the training set
        
         # Create noise vectors for the generator
-        
         
         # Generate the images from the noise
 
@@ -84,12 +98,9 @@ Please use the following code to save the model and weights of your generator.
 
 
 ```python
-# serialize model to JSON
-model_json = g.to_json()
-with open("generator.json", "w") as json_file:
-    json_file.write(model_json)
-# serialize weights to HDF5
-g.save_weights("generator.h5")
+# save model with Pytorch
+torch.save(netG.state_dict(), 'PATH_TO_SAVED_GENERATOR')
+torch.save(netD.state_dict(), 'PATH_TO_SAVED_DISCRIMINATOR')
 ```
 
 #### Plotting
@@ -104,7 +115,7 @@ h = w = 28
 num_gen = 25
 
 z = np.random.normal(size=[num_gen, z_dim])
-generated_images = g.predict(z)
+generated_images = netG(z)
 
 # plot of generation
 n = np.sqrt(num_gen).astype(np.int32)
