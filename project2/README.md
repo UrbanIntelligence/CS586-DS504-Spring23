@@ -127,8 +127,8 @@ Setup information could also be found in the [slides](https://docs.google.com/pr
    * [Download and install anaconda](https://www.anaconda.com/distribution/)
    * [Create a virtual environment with commands](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands)
 * Deep learning package
-   * [Keras](https://keras.io/). Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It is easy to learn and use. If you are new to deep learning, you can try to use Keras to get started. [Naive Tutorial](https://github.com/yanhuata/DS504CS586-S20/blob/master/project2/keras_tutorial.ipynb)
    * [Pytorch](https://pytorch.org/tutorials/)
+   * [Keras](https://keras.io/). Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It is easy to learn and use. If you are new to deep learning, you can try to use Keras to get started. [Naive Tutorial](https://github.com/yanhuata/DS504CS586-S20/blob/master/project2/keras_tutorial.ipynb)
    * [Tensorflow](https://www.tensorflow.org/tutorials)
    * [MxNet](https://mxnet.apache.org/)
 * Open source GPU
