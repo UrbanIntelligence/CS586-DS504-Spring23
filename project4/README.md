@@ -1,4 +1,4 @@
-# Individual Project 4 (To be updated to Pytorch)
+# Individual Project 4
 # Meta-Learning and Few Shot Learning
 #### Due Date
 * Tuesday Apr 25, 2023 (23:59)
@@ -127,8 +127,6 @@ Setup information could also be found in the [slides](https://docs.google.com/pr
    * [Create a virtual environment with commands](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands)
 * Deep learning package
    * [Pytorch](https://pytorch.org/tutorials/)
-   * [Keras](https://keras.io/). Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It is easy to learn and use. If you are new to deep learning, you can try to use Keras to get started. [Naive Tutorial](https://github.com/yanhuata/DS504CS586-S20/blob/master/project2/keras_tutorial.ipynb)
-   * [Tensorflow](https://www.tensorflow.org/tutorials)
    * [MxNet](https://mxnet.apache.org/)
 * Open source GPU
    * [Using GPU on Google Cloud](https://github.com/yanhuata/DS504CS586-S20/blob/master/project2/keras_tutorial.ipynb)
