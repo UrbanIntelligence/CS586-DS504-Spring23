@@ -52,6 +52,7 @@ For API requests using Basic Authentication or OAuth, you can make up to 5000 re
 
 ```python
 import requests
+import json
 
 headers ={
       'Authorization': 'token <TOKEN>', # replace <TOKEN> with your token
@@ -64,6 +65,8 @@ data = response.json()
 # collect data by search API
 response = requests.get('https://api.github.com/search/users?q=created:<2020-01-14&created:>2020-01-13',headers=headers)
 data = response.json()
+json_formatted_str = json.dumps(data, indent=2)
+print(json_formatted_str)
 
 # It will return 30 results for each request. You could consider using "for" loop to crawl more data.
 # The sample code is a simple way to collect GitHub users' ID. You can consider other ways to collect data.
