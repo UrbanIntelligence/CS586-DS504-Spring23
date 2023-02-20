@@ -1,7 +1,7 @@
 # Project 5 [Group (2-4 people)]
 
 #### Project Description:
-* You will work with your teammates in the team project on a big data analytics problem involving multiple (more than one) datasets. That is, projects may involve the utilization of big data analytics tools to extract knowledge from multiple real world datasets to address practical challenges; and/or the development of new or the extension of existing tools with advanced features;
+* You will work with your teammates in the team project on a big data analytics problem involving multiple (more than one) datasets. That is, projects may involve the utilization of big data analytics tools to extract knowledge from multiple real world datasets to address practical challenges; and/or the development of new or the extension of existing tools with advanced features. You can find some example project ideas below.
 
 #### Important Dates
 * Team Project Starts
