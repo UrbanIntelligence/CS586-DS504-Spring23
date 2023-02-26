@@ -201,7 +201,7 @@ Generate images from other data source.
     6. Activate new env using “source activate NAME”
     7. Install Pytorch using “conda install pytorch==1.2.0 torchvision==0.4.0 cudatoolkit=9.2 -c pytorch ”
 
-* Submit job on ACE server
+* Submit job on Turing server
    ```shell
    #!/bin/bash
    #SBATCH -N 1
