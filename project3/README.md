@@ -190,16 +190,16 @@ Generate images from other data source.
   
   * 25 generated images
 
-## Tips of Using GPU on ACE Server
+## Tips of Using GPU on Turing Server
 
-* Set up environment on ACE server 
-    1. Connect to ACE server
+* Set up environment on Turing server 
+    1. Connect to Turing server
     2. Open remote folder (your own root folder on the server) 
     3. Create a new terminal
     4. Load anaconda3, CUDA and cudnn using “module load” command
     5. Create new conda env using “conda create –n NAME”
     6. Activate new env using “source activate NAME”
-    7. Install Pytorch using “conda install pytorch==1.2.0 torchvision==0.4.0 cudatoolkit=9.2 -c pytorch ”
+    7. Install Pytorch using the command from this page: https://pytorch.org/get-started/locally/, based on your OS.
 
 * Submit job on Turing server
    ```shell
