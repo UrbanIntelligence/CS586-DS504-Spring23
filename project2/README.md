@@ -130,7 +130,7 @@ Setup information could also be found in the [slides](https://docs.google.com/pr
    * [Pytorch](https://pytorch.org/tutorials/)
    * [MxNet](https://mxnet.apache.org/)
 * Open source GPU
-   * [Turing]
+   * [Turing](https://arc.wpi.edu/cluster-documentation/build/html/index.html)
    * [Using GPU on Google Cloud](https://github.com/yanhuata/DS504CS586-S20/blob/master/project2/keras_tutorial.ipynb)
    * [Cuda set up for Linux](https://docs.google.com/document/d/1rioVwqvZCbn58a_5wqs5aT3YbRsiPXs9KmIuYhmM1gY/edit?usp=sharing)
    * [Google colab](https://colab.research.google.com/notebooks/gpu.ipynb)
