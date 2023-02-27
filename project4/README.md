@@ -121,7 +121,7 @@ To help better and fast evaluate your model, please submit a separate python fil
   ```
 
 ## Some Tips
-Setup information could also be found in the [slides](https://docs.google.com/presentation/d/1nFZtev4PxJjbxPxEv06YIQwoIUjd7FEcAtrR5JIutGE/edit?usp=sharing)
+Setup information could also be found in the [slides](https://docs.google.com/presentation/d/148pBkhw4HqGjkQGkOdsXjJw_B3rzVgi6Brq6fc7r8mE/edit?usp=sharing)
 * Anaconda and virtual environment set tup
    * [Download and install anaconda](https://www.anaconda.com/distribution/)
    * [Create a virtual environment with commands](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands)
@@ -129,6 +129,7 @@ Setup information could also be found in the [slides](https://docs.google.com/pr
    * [Pytorch](https://pytorch.org/tutorials/)
    * [MxNet](https://mxnet.apache.org/)
 * Open source GPU
+   * [Turing](https://arc.wpi.edu/cluster-documentation/build/html/index.html)
    * [Using GPU on Google Cloud](https://github.com/yanhuata/DS504CS586-S20/blob/master/project2/keras_tutorial.ipynb)
    * [Cuda set up for Linux](https://docs.google.com/document/d/1rioVwqvZCbn58a_5wqs5aT3YbRsiPXs9KmIuYhmM1gY/edit?usp=sharing)
    * [Google colab](https://colab.research.google.com/notebooks/gpu.ipynb)
