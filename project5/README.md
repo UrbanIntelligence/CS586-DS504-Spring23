@@ -25,11 +25,6 @@
 #### Total Points
 * 100 (One Hundred)
 
-# Final Presentation Session
-
-***Feedback here (To be updated): https://forms.gle/ess1PWXTEQwkAVp66*** 
-
-
 # Project Ideas
 * You can participate some competitions
   * [NeurIPS 2020 Competition Track](https://neurips.cc/Conferences/2020/CompetitionTrack)
