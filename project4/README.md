@@ -120,6 +120,30 @@ To help better and fast evaluate your model, please submit a separate python fil
         return prediction
   ```
 
+## Tips of Using GPU on Turing Server
+
+* Set up environment on Turing server 
+    1. Connect to Turing server
+    2. Open remote folder (your own root folder on the server) 
+    3. Create a new terminal
+    4. Load anaconda3, CUDA and cudnn using “module load” command
+    5. Create new conda env using “conda create –n NAME”
+    6. Activate new env using “source activate NAME”
+    7. Install Pytorch using the command from this page: https://pytorch.org/get-started/locally/, based on your OS.
+
+* Submit job on Turing server
+   ```shell
+   #!/bin/bash
+   #SBATCH -N 1
+   #SBATCH -n 4
+   #SBATCH --gres=gpu:1
+
+   module load cuda92/toolkit
+   module load cudnn
+   python torch_test.py
+   ```
+
+
 ## Some Tips
 Setup information could also be found in the [slides](https://docs.google.com/presentation/d/148pBkhw4HqGjkQGkOdsXjJw_B3rzVgi6Brq6fc7r8mE/edit?usp=sharing)
 * Anaconda and virtual environment set tup
