@@ -178,7 +178,7 @@ Generate images from other data source.
   
 * Package
 
-  You are allowed to use any deep learning package, such as Tensorflow, Pytorch, etc.
+  You are allowed to use any deep learning package, such as Pytorch, etc.
   
 * Deliverable
 
