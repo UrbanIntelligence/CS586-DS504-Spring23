@@ -13,9 +13,10 @@ In this project, you will be asked to finish a sequence classification task usin
 ## Current Leaderboard
 | rank | Name | Accuracy |
 |---|---|---|
-|**1**   | Vignesh Sundaram | 80% |
-|**2**  | Haoying Zhou  | 56% |
-|**3**  | Mohammad Nur Hossain | 44% |
+|**1**   | Shundong Li | 100% |
+|**2**   | Vignesh Sundaram | 80% |
+|**3**  | Haoying Zhou  | 56% |
+|**4**  | Mohammad Nur Hossain | 44% |
 
 ## Deliverables & Grading
 * PDF Report (50%) [template](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx)
