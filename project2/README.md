@@ -13,8 +13,8 @@ In this project, you will be asked to finish a sequence classification task usin
 ## Current Leaderboard
 | rank | Name | Accuracy |
 |---|---|---|
-|**1**   | Haoying Zhou  | 56% |
-|**2**  | | |
+|**1**   | Vignesh Sundaram | 80% |
+|**2**  | Haoying Zhou  | 56% |
 |**3**  |  |  |
 
 ## Deliverables & Grading
