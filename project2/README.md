@@ -15,8 +15,9 @@ In this project, you will be asked to finish a sequence classification task usin
 |---|---|---|
 |**1**   | Shundong Li | 100% |
 |**2**   | Vignesh Sundaram | 80% |
-|**3**  | Haoying Zhou  | 56% |
-|**4**  | Mohammad Nur Hossain | 44% |
+|**3**   | Aviv Nur | 74% |
+|**4**  | Haoying Zhou  | 56% |
+|**5**  | Mohammad Nur Hossain | 44% |
 
 ## Deliverables & Grading
 * PDF Report (50%) [template](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx)
