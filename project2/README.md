@@ -14,12 +14,13 @@ In this project, you will be asked to finish a sequence classification task usin
 | rank | Name | Accuracy |
 |---|---|---|
 |**1**   | Shundong Li | 100% |
-|**2**   | Vignesh Sundaram | 80% |
-|**3**   | Aviv Nur | 74% |
-|**4**   | Kangjian Wu | 62% |
-|**5**  | Zhiying Xiao  | 60% |
-|**6**  | Haoying Zhou  | 56% |
-|**7**  | Mohammad Nur Hossain | 44% |
+|**2**   | Saral Shrestha | 86% |
+|**3**   | Vignesh Sundaram | 80% |
+|**4**   | Aviv Nur | 74% |
+|**5**   | Kangjian Wu | 62% |
+|**6**  | Zhiying Xiao  | 60% |
+|**7**  | Haoying Zhou  | 56% |
+|**8**  | Mohammad Nur Hossain | 44% |
 
 ## Deliverables & Grading
 * PDF Report (50%) [template](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx)
