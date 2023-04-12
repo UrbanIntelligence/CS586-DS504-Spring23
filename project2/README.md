@@ -20,7 +20,8 @@ In this project, you will be asked to finish a sequence classification task usin
 |**5**   | Kangjian Wu | 62% |
 |**6**  | Zhiying Xiao  | 60% |
 |**7**  | Haoying Zhou  | 56% |
-|**8**  | Mohammad Nur Hossain | 44% |
+|**8**  | Subrata Kumar Biswas | 46% |
+|**9**  | Mohammad Nur Hossain | 44% |
 
 ## Deliverables & Grading
 * PDF Report (50%) [template](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx)
