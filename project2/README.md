@@ -17,12 +17,12 @@ In this project, you will be asked to finish a sequence classification task usin
 |**2**   | Saral Shrestha | 86% |
 |**3**   | Vignesh Sundaram | 80% |
 |**4**   | Aviv Nur | 74% |
-|**5**   | Kangjian Wu | 62% |
-|**6**  | Zhiying Xiao  | 60% |
-|**7**  | Haoying Zhou  | 56% |
-|**8**  | Subrata Kumar Biswas | 46% |
-|**9**  | Bijesh Shrestha | 45% |
-|**10**  | Mohammad Nur Hossain | 44% |
+|**5**   | Seyed Bagher Hashemi Natanzi | 68% |
+|**6**   | Kangjian Wu | 62% |
+|**7**  | Zhiying Xiao  | 60% |
+|**8**  | Haoying Zhou  | 56% |
+|**9**  | Subrata Kumar Biswas | 46% |
+|**10**  | Bijesh Shrestha | 45% |
 
 ## Deliverables & Grading
 * PDF Report (50%) [template](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx)
