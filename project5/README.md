@@ -19,7 +19,7 @@
   * *About 10 pages.* Please use the [template](https://github.com/lllyyyt123/CS586-DS504-Spring23/blob/master/project5/acm_submission_template.docx).
   * *Code and trained model*
   * *Demo (Optional)*
-  * *Self-and-cross evaluation form*
+  * *Self-and-cross evaluation form* May 2, 2023 (23:59) on Canvas
   * Submit it to Canvas Assignment -> Final Project
 
 #### Total Points
