@@ -19,10 +19,10 @@ In this project, you will be asked to finish a sequence classification task usin
 |**4**   | Aviv Nur | 74% |
 |**5**   | Lichun Gao | 71% |
 |**6**   | Seyed Bagher Hashemi Natanzi | 68% |
-|**7**   | Kangjian Wu | 62% |
-|**8**  | Zhiying Xiao  | 60% |
-|**9**  | Haoying Zhou  | 56% |
-|**10**  | Naitik Zaveri | 48% |
+|**7**   | Anthony Chen | 65% |
+|**8**   | Kangjian Wu | 62% |
+|**9**  | Zhiying Xiao  | 60% |
+|**10**  | Haoying Zhou  | 56% |
 
 ## Deliverables & Grading
 * PDF Report (50%) [template](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx)
