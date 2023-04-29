@@ -12,8 +12,8 @@ In project 2, you were given a bunch of drivers and their trajectories to build 
 ## Current Leaderboard
 | rank | Name | Accuracy |
 |---|---|---|
-|**1**   | | |
-|**2**   | | |
+|**1**   | Zhiying Xiao | 93% |
+|**2**   | Naitik Zaveri | 68% |
 |**3**   | | |
 
 ## Evaluation
