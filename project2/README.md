@@ -16,13 +16,13 @@ In this project, you will be asked to finish a sequence classification task usin
 |**1**   | Shundong Li | 100% |
 |**2**   | Saral Shrestha | 86% |
 |**3**   | Vignesh Sundaram | 80% |
-|**3**   | Padmesh Rajaram Naik | 80% |
+|**4**   | Padmesh Rajaram Naik | 80% |
 |**5**   | Aviv Nur | 74% |
-|**6**   | Lichun Gao | 71% |
-|**7**   | Seyed Bagher Hashemi Natanzi | 68% |
-|**8**   | Anthony Chen | 65% |
-|**9**   | Kangjian Wu | 62% |
-|**10**  | Zhiying Xiao  | 60% |
+|**6**   | Mingjie Zeng | 72% |
+|**7**   | Lichun Gao | 71% |
+|**8**   | Seyed Bagher Hashemi Natanzi | 68% |
+|**9**   | Anthony Chen | 65% |
+|**10**   | Chao Wang | 63% |
 
 ## Deliverables & Grading
 * PDF Report (50%) [template](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx)
