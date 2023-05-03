@@ -16,12 +16,12 @@ In project 2, you were given a bunch of drivers and their trajectories to build 
 |**2**   | Shundong Li | 95% |
 |**3**   | Zhiying Xiao | 93% |
 |**4**   | Anthony Chen | 90% |
-|**5**   | Vignesh Sundaram | 87% |
-|**6**   | Lichun Gao | 84% |
-|**7**   | Kangjian Wu | 82% |
-|**8**   | Matthew Suyer | 78% |
-|**9**   | Naitik Zaveri | 68% |
-|**10**   | Padmesh Rajaram Naik | 68% |
+|**5**   | Chao Wang | 89% |
+|**6**   | Vignesh Sundaram | 87% |
+|**7**   | Lichun Gao | 84% |
+|**8**   | Kangjian Wu | 82% |
+|**9**   | Matthew Suyer | 78% |
+|**10**   | Naitik Zaveri | 68% |
 
 ## Evaluation
 To evaluation your submission, a seperate test dataset will be held. For each driver, the test data will contains 10 different trajectories. We will randomly generate 20,000 trajectory pairs and use them to evaluate your submitted model. Like project 2, you should submit a evaluation.py file containing how to process the model and how to run prediction. 
