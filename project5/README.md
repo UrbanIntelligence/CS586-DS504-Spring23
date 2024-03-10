@@ -42,12 +42,16 @@
 
 | Team |  Project Title |
 |---|---|
-|Team 1| |
-|Team 2| |
-|Team 3| |
-|Team 4| |
-|Team 5| |
-|Team 6| |
+|Team 1| Learning American Sign Language with deep learning|
+|Team 2| News Recommendation System |
+|Team 3| Predicting the Over/Under Line in NBA Games using Deep Learning |
+|Team 4| Multi-Class Classification with Deep Learning Techniques |
+|Team 5| Semantic Understanding of Urban Street |
+|Team 6| Robotic surgery with imitation learning |
+|Team 7| Genuine Genres: Using Machine Learning and Natural Language Processing to Algorithmically Categorize Music |
+|Team 8| Evaluating Student Writing Group members |
+|Team 9| Emotional Support using NLP |
+
 
 
 ## Deliverables
